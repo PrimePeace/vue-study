@@ -1,4 +1,4 @@
-# 使用步骤
+<img width="1691" height="927" alt="image" src="https://github.com/user-attachments/assets/e0eb2442-e62a-4fca-b2d6-5c7561d3f826" /># 使用步骤
 
 > A Vue.js project
 
@@ -18,4 +18,5 @@ npm run build
 
 一个简单的页面，纯html
 
-![77063347180](C:\Users\33056\AppData\Local\Temp\1770633471806.png)
+<img width="1760" height="938" alt="image" src="https://github.com/user-attachments/assets/7fe7c2f3-7659-444d-8565-b32b07e12958" />
+
