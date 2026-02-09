@@ -1,7 +1,21 @@
-mind文件夹和mind.zip是一个项目
-其中，缺少node_modules文件，需要自行安装node.js  
-(安装网址：
-1. https://nodejs.org/en
-2. https://nodejs.cn/
-)
-   
+# 001-text
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
